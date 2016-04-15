@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MessageTimer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button_set">Set the time!</string>
+    <string name="title_activity_display_timers">Display All Timers</string>
+    <string name="pick_time">Pick time!</string>
+    <string name="title_activity_time_picker_demo">Pick a time</string>
+</resources>
